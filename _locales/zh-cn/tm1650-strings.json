@@ -1,0 +1,13 @@
+{
+  "TM1650.on|block": "打开显示",
+  "TM1650.off|block": "关闭显示",
+  "TM1650.clear|block": "清空显示",  
+  "TM1650.digit|block": "显示数值 %num 在 %bit",
+  "TM1650.showNumber|block": "显示数值 %num",
+  "TM1650.showSring|block": "显示字符 %str",
+  "TM1650.showRunging|block": "滚动显示 %str |间隔(ms) %del",
+  "TM1650.showHex|block": "显示十六进制数 %num",
+  "TM1650.showDpAt|block": "是否显示小数点在 %bit |位 %show",
+  "TM1650.setIntensity|block": "设置亮度 %dat"  
+  
+}

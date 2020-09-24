@@ -1,0 +1,16 @@
+{
+    "name": "tm1650",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "tm1650.ts",
+		"_locales/zh-cn/tm1650-strings.json",
+		"_locales/zh-tw/tm1650-strings.json"
+    ],
+    "public": true
+}
